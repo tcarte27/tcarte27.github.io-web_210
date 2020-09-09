@@ -1,0 +1,59 @@
+#intro {
+	color: #1B998B;
+	margin: 10px;
+	font-size: 1.5em;
+}
+header {
+	font-family: monospace;
+	text-align: center;
+}
+body {
+  margin: 25px;
+  background-color: 454B66;
+  font-family: sans-serif;
+  color: #1B998B;
+  font-size: 1.5em;
+}
+p {
+	font-family: 'Roboto', sans-serif;
+}
+h1 {
+   text-align: center;
+   font-family: fantasy;
+   color: #C874D9;
+}
+nav a {
+	color: #ED217C;
+	font-family: monospace;
+	font-size: 1em;
+	margin: 10px;
+}
+footer {
+	text-align: center;
+	color: #FDCA40;
+	font-family: cursive;
+}
+#personal {
+	color: #C874D9;
+}
+#professional {
+	color: #DF2935;
+}
+#academic {
+	color: #C874D9;
+}
+#primary {
+	color: #DF2935;
+}
+#courses {
+	color: #C874D9;
+}
+.web {
+	color: #DF2935;
+}
+#something {
+	color: #C874D9;
+}
+#share {
+	color: #DF2935;
+}
